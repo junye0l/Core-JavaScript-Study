@@ -5,4 +5,6 @@
 <a href="https://velog.io/@junyeolkim00/Core-JavaScript-2%EC%A3%BC%EC%B0%A8">스터디 2주차 정리</a>
 ## 3️⃣ 주차 : 실행 컨텍스트
 <a href="https://velog.io/@junyeolkim00/Core-JavaScript-3%EC%A3%BC%EC%B0%A8">스터디 3주차 정리</a>
-## 4️⃣ 주차 : 
+## 4️⃣ 주차 : 함수 선언문, 함수 표현식, 스코프, 스코프 체인
+<a href="https://velog.io/@junyeolkim00/Core-JavaScript-4%EC%A3%BC%EC%B0%A8">스터디 4주차 정리 - 함수 선언문, 함수 표현식</a>
+<a href="https://velog.io/@junyeolkim00/Core-JavaScript-4-2-%EC%A3%BC%EC%B0%A8">스터디 4주차 정리 - 스코프, 스코프 체인</a>
