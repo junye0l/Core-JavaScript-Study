@@ -10,3 +10,5 @@
 <a href="https://velog.io/@junyeolkim00/Core-JavaScript-4-2-%EC%A3%BC%EC%B0%A8">스터디 4주차 정리 - 스코프, 스코프 체인</a>
 ## 5️⃣ 주차 : this
 <a href="https://velog.io/@junyeolkim00/Core-JavaScript-5%EC%A3%BC%EC%B0%A8">스터디 5주차 정리 - this</a>
+## 6️⃣ 주차 : this ( call, apply, bind )
+<a href="https://velog.io/@junyeolkim00/Core-JavaScript-6%EC%A3%BC%EC%B0%A8">스터디 6주차 정리 - this</a>
