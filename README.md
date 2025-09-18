@@ -11,6 +11,6 @@
 ## 5️⃣ 주차 : this
 <a href="https://junye0l.github.io/core-javascript-week5">스터디 5주차 정리 - this</a>
 ## 6️⃣ 주차 : this ( call, apply, bind )
-<a href="https://junye0l.github.io/core-javascript-week6">스터디 6주차 정리 - this</a>
+<a href="https://junye0l.github.io/core-javascript-week6">스터디 6주차 정리 - call, apply, bind</a>
 ## 7️⃣ 주차 : callback 
-<a href="https://junye0l.github.io/core-javascript-week7">스터디 7주차 정리 - this</a>
+<a href="https://junye0l.github.io/core-javascript-week7">스터디 7주차 정리 - callback</a>
